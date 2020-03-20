@@ -1,0 +1,12 @@
+fsl_gpio.c:79:6:GPIO_PinInit	32	static
+fsl_gpio.c:113:6:GPIO_PinWrite	32	static
+fsl_gpio.c:139:6:GPIO_PortSet	32	static
+fsl_gpio.c:158:6:GPIO_PortClear	32	static
+fsl_gpio.c:177:6:GPIO_PortToggle	32	static
+fsl_gpio.c:199:10:GPIO_PinRead	32	static
+fsl_gpio.c:262:6:FGPIO_PinInit	32	static
+fsl_gpio.c:294:6:FGPIO_PinWrite	32	static
+fsl_gpio.c:320:6:FGPIO_PortSet	32	static
+fsl_gpio.c:339:6:FGPIO_PortClear	32	static
+fsl_gpio.c:358:6:FGPIO_PortToggle	32	static
+fsl_gpio.c:380:10:FGPIO_PinRead	32	static

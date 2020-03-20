@@ -1,0 +1,17 @@
+MKE02Z16xxx4_Project.c:61:6:ConvertToString	32	static
+MKE02Z16xxx4_Project.c:79:6:i2c_release_bus_delay	16	static
+MKE02Z16xxx4_Project.c:88:6:user_i2c_sleep	24	static
+MKE02Z16xxx4_Project.c:98:8:user_i2c_read	56	static
+MKE02Z16xxx4_Project.c:134:8:user_i2c_write	56	static
+MKE02Z16xxx4_Project.c:223:6:SHTC3_sendCommand	48	static
+MKE02Z16xxx4_Project.c:240:6:I2C_Wait	16	static
+MKE02Z16xxx4_Project.c:252:6:SHTC3_readData	32	static
+MKE02Z16xxx4_Project.c:273:6:SHTC3_singleRead	8	static
+MKE02Z16xxx4_Project.c:288:9:SHTC3_testChecksum	24	static
+MKE02Z16xxx4_Project.c:314:9:SHTC3_humidCal	16	static
+MKE02Z16xxx4_Project.c:324:9:SHTC3_tempCal	16	static
+MKE02Z16xxx4_Project.c:341:6:SM_UART_04L_modeInit	16	static
+MKE02Z16xxx4_Project.c:349:6:SM_UART_04L_getData	16	static
+MKE02Z16xxx4_Project.c:366:9:SM_UART_04L_testCheckSum	24	static
+MKE02Z16xxx4_Project.c:383:6:SM_UART_04L_dataCal	16	static
+MKE02Z16xxx4_Project.c:395:5:main	128	static

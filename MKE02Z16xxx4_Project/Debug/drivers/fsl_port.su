@@ -1,0 +1,2 @@
+fsl_port.c:44:6:PORT_SetPinPullUpEnable	24	static
+fsl_port.c:73:6:PORT_SetPinSelect	16	static
